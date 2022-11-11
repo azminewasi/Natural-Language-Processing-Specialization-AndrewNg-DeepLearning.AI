@@ -13,3 +13,4 @@
 *.words
 *.txt
 *.pos
+*.pickle
