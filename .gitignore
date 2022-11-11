@@ -10,3 +10,6 @@
 *.json
 *.rev
 *.bib
+*.words
+*.txt
+*.pos
