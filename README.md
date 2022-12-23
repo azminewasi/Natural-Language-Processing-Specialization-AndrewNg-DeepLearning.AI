@@ -6,6 +6,12 @@ Break into NLP. Master cutting-edge NLP techniques through four hands-on courses
 This mrepo ontains all course modules, exercises and notes of Natural Language Processing Specialization by Andrew Ng, and DeepLearning.ai in Coursera
 ## Version: October 2022
 ---
+### Completed On : **23 December, 2022**
+---
+
+![](Specialization_Natural_Language_Processing_Specialization_Coursera_KJP38PX9XR4P.png)
+
+---
 
 # WHAT YOU WILL LEARN
 - Use logistic regression, naïve Bayes, and word vectors to implement sentiment analysis, complete analogies & translate words.
